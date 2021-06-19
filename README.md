@@ -1,4 +1,4 @@
-### Hi there, I'm Pawan Kumar! 👋
+### Hola, I'm Tilak Verma! 👋
 
 
 
@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on Open Source(GitHub).
 - 🤔 I’m looking for help with Firebase documentation.
 - 💬 Ask me about ReactJS, NodeJS, MongoDB or any tech related stuff.
-- 📫 How to reach me: LinkedIn - 
+- 📫 How to reach me: [LinkedIn - tilakverma](https://www.linkedin.com/in/tilakverma140002/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=TilakVerma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
